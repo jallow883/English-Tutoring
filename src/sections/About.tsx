@@ -119,7 +119,7 @@ const About = () => {
               </p>
               <p>
                 My teaching philosophy centers on creating a supportive, engaging environment
-                where students feel comfortable taking risks and making mistakes—because
+                where students feel comfortable taking risks and making mistakes because
                 that&apos;s where real learning happens.
               </p>
               <p>
