@@ -113,7 +113,7 @@ const About = () => {
 
             <div className="space-y-4 text-white/70 leading-relaxed mb-8">
               <p>
-                Hello! I&apos;m Sarah, a dedicated English language educator with over a decade
+                Hello! I&apos;m Tr.Abu, a dedicated English language educator with over a decade
                 of experience helping students from around the world achieve their language
                 goals.
               </p>
